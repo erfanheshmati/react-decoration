@@ -41,7 +41,7 @@ export default function News() {
                     {/* item */}
                     <div
                         className="news__item w-full max-w-[382px] h-[520px] border border-primary/20 rounded-[62px] p-[20px] hover:bg-accent-secondary transition-all group cursor-pointer mx-auto xl:mx-0">
-                        <img src="./src/assets/news/01.png" alt="" className="mb-5" />
+                        <img src="./news/01.png" alt="" className="mb-5" />
                         <div className="flex flex-col gap-[30px]">
                             <h3 className="h3">Let's Get Solution For Building Construction Work</h3>
                             <div className="flex items-center justify-between">
@@ -56,7 +56,7 @@ export default function News() {
                     {/* item */}
                     <div
                         className="news__item w-full max-w-[382px] h-[520px] border border-primary/20 rounded-[62px] p-[20px] hover:bg-accent-secondary transition-all group cursor-pointer mx-auto xl:mx-0">
-                        <img src="./src/assets/news/02.png" alt="" className="mb-5" />
+                        <img src="./news/02.png" alt="" className="mb-5" />
                         <div className="flex flex-col gap-[30px]">
                             <h3 className="h3">Low Cost Latest Invented Interior Designing Ideas</h3>
                             <div className="flex items-center justify-between">
@@ -71,7 +71,7 @@ export default function News() {
                     {/* item */}
                     <div
                         className="news__item w-full max-w-[382px] h-[520px] border border-primary/20 rounded-[62px] p-[20px] hover:bg-accent-secondary transition-all group cursor-pointer mx-auto xl:mx-0">
-                        <img src="./src/assets/news/03.png" alt="" className="mb-5" />
+                        <img src="./news/03.png" alt="" className="mb-5" />
                         <div className="flex flex-col gap-[30px]">
                             <h3 className="h3">Best For Any Office & Business Interior Solution</h3>
                             <div className="flex items-center justify-between">

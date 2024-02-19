@@ -25,7 +25,7 @@ export default function Header() {
             <div className="container mx-auto flex justify-between h-full items-center">
                 {/* logo */}
                 <a href="#">
-                    <img src="./src/assets/logo.svg" alt="" />
+                    <img src="./logo.svg" alt="" />
                 </a>
                 {/* navbar */}
                 <nav>

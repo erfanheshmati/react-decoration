@@ -25,7 +25,7 @@ export default function Footer() {
                     <div className="footer__item w-full max-w-[400px] mx-auto mb-8 text-center xl:text-left">
                         {/* logo */}
                         <a href="" className="flex justify-center xl:justify-start mb-8">
-                            <img src="./src/assets/logo.svg" alt="" />
+                            <img src="./logo.svg" alt="" />
                         </a>
                         <p className="mb-8 text-xl">
                             It is a long established fact that a reader will be distracted lookings.

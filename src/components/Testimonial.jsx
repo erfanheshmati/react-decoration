@@ -60,7 +60,7 @@ export default function Testimonial() {
                                 <div
                                     className="testimonial__item w-full max-w-[450px] h-[340px] bg-white rounded-[30px] flex flex-col justify-center p-9 mx-auto">
                                     <div className="flex gap-4 mb-6">
-                                        <img src="./src/assets/testimonial/01.png" alt="" />
+                                        <img src="./testimonial/01.png" alt="" />
                                         <div>
                                             <h3 className="h3">Nattasha Mith</h3>
                                             <div>Greenville, USA</div>
@@ -74,7 +74,7 @@ export default function Testimonial() {
                                 <div
                                     className="testimonial__item w-full max-w-[450px] h-[340px] bg-white rounded-[30px] flex flex-col justify-center p-9 mx-auto">
                                     <div className="flex gap-4 mb-6">
-                                        <img src="./src/assets/testimonial/02.png" alt="" />
+                                        <img src="./testimonial/02.png" alt="" />
                                         <div>
                                             <h3 className="h3">Nattasha Mith</h3>
                                             <div>Greenville, USA</div>
@@ -88,7 +88,7 @@ export default function Testimonial() {
                                 <div
                                     className="testimonial__item w-full max-w-[450px] h-[340px] bg-white rounded-[30px] flex flex-col justify-center p-9 mx-auto">
                                     <div className="flex gap-4 mb-6">
-                                        <img src="./src/assets/testimonial/03.png" alt="" />
+                                        <img src="./testimonial/03.png" alt="" />
                                         <div>
                                             <h3 className="h3">Nattasha Mith</h3>
                                             <div>Greenville, USA</div>
@@ -102,7 +102,7 @@ export default function Testimonial() {
                                 <div
                                     className="testimonial__item w-full max-w-[450px] h-[340px] bg-white rounded-[30px] flex flex-col justify-center p-9 mx-auto">
                                     <div className="flex gap-4 mb-6">
-                                        <img src="./src/assets/testimonial/04.png" alt="" />
+                                        <img src="./testimonial/04.png" alt="" />
                                         <div>
                                             <h3 className="h3">Nattasha Mith</h3>
                                             <div>Greenville, USA</div>

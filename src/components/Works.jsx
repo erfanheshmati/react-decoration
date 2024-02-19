@@ -39,7 +39,7 @@ export default function Works() {
                 <div className="work__grid grid grid-cols-1 xl:grid-cols-2 gap-x-[104px] gap-y-[56px]">
                     {/* item */}
                     <div className="w-full max-w-[548px] h-full mx-auto">
-                        <img src="./src/assets/work/01.png" alt="" className="mb-6" />
+                        <img src="./work/01.png" alt="" className="mb-6" />
                         <div className="flex justify-between items-center w-full">
                             <div>
                                 <h3>Modern Kitchen</h3>
@@ -52,7 +52,7 @@ export default function Works() {
                     </div>
                     {/* item */}
                     <div className="w-full max-w-[548px] h-full mx-auto">
-                        <img src="./src/assets/work/02.png" alt="" className="mb-6" />
+                        <img src="./work/02.png" alt="" className="mb-6" />
                         <div className="flex justify-between items-center w-full">
                             <div>
                                 <h3>Modern Kitchen</h3>
@@ -65,7 +65,7 @@ export default function Works() {
                     </div>
                     {/* item */}
                     <div className="w-full max-w-[548px] h-full mx-auto">
-                        <img src="./src/assets/work/03.png" alt="" className="mb-6" />
+                        <img src="./work/03.png" alt="" className="mb-6" />
                         <div className="flex justify-between items-center w-full">
                             <div>
                                 <h3>Modern Kitchen</h3>
@@ -78,7 +78,7 @@ export default function Works() {
                     </div>
                     {/* item */}
                     <div className="w-full max-w-[548px] h-full mx-auto">
-                        <img src="./src/assets/work/04.png" alt="" className="mb-6" />
+                        <img src="./work/04.png" alt="" className="mb-6" />
                         <div className="flex justify-between items-center w-full">
                             <div>
                                 <h3>Modern Kitchen</h3>

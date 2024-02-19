@@ -48,7 +48,7 @@ export default function About() {
                     </div>
                     {/* img */}
                     <div className="about__img order-1 xl:order-none max-w-[453px] mx-auto xl:max-w-none xl:mx-0">
-                        <img src="./src/assets/about/img.png" alt="" />
+                        <img src="./about/img.png" alt="" />
                     </div>
                 </div>
             </div>
