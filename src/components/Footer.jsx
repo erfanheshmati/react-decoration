@@ -106,7 +106,7 @@ export default function Footer() {
             </div>
             {/* copyright */}
             <p className="footer__copyright text-center text-lg py-10 bg-white xl:border-t">
-                Copyright &copy; Designed by Erfan Heshmati.
+                &copy; Designed by Erfan Heshmati.
                 All rights reserved.
             </p>
         </footer>
